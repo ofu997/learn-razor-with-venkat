@@ -36,3 +36,4 @@ C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWi
 C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.pdb
 C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.genruntimeconfig.cache
 C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.csproj.CopyComplete
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat\obj\Debug\netcoreapp3.1\Razor\Pages\Employees\Index.cshtml.g.cs
