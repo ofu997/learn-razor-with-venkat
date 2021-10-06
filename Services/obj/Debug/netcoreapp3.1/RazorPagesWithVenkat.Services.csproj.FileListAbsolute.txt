@@ -1,0 +1,13 @@
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\Services\bin\Debug\netcoreapp3.1\RazorPagesWithVenkat.Services.deps.json
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\Services\bin\Debug\netcoreapp3.1\RazorPagesWithVenkat.Services.dll
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\Services\bin\Debug\netcoreapp3.1\RazorPagesWithVenkat.Services.pdb
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\Services\bin\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.dll
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\Services\bin\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.pdb
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\Services\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Services.csproj.AssemblyReference.cache
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\Services\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\Services\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Services.AssemblyInfoInputs.cache
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\Services\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Services.AssemblyInfo.cs
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\Services\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Services.csproj.CoreCompileInputs.cache
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\Services\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Services.csproj.CopyComplete
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\Services\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Services.dll
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\Services\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Services.pdb

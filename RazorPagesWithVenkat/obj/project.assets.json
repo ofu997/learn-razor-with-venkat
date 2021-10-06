@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "RazorPagesWithVenkat.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/RazorPagesWithVenkat.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RazorPagesWithVenkat.Models.dll": {}
+        }
+      },
+      "RazorPagesWithVenkat.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "RazorPagesWithVenkat.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RazorPagesWithVenkat.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RazorPagesWithVenkat.Services.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RazorPagesWithVenkat.Models/1.0.0": {
+      "type": "project",
+      "path": "../RazorPagesWithVenkat.Models/RazorPagesWithVenkat.Models.csproj",
+      "msbuildProject": "../RazorPagesWithVenkat.Models/RazorPagesWithVenkat.Models.csproj"
+    },
+    "RazorPagesWithVenkat.Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/RazorPagesWithVenkat.Services.csproj",
+      "msbuildProject": "../Services/RazorPagesWithVenkat.Services.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "RazorPagesWithVenkat.Models >= 1.0.0",
+      "RazorPagesWithVenkat.Services >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ofu23\\.nuget\\packages\\": {}
@@ -33,7 +71,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ofu23\\Documents\\Projects\\razor-venkat\\RazorPagesWithVenkat\\RazorPagesWithVenkat.Models\\RazorPagesWithVenkat.Models.csproj": {
+              "projectPath": "C:\\Users\\ofu23\\Documents\\Projects\\razor-venkat\\RazorPagesWithVenkat\\RazorPagesWithVenkat.Models\\RazorPagesWithVenkat.Models.csproj"
+            },
+            "C:\\Users\\ofu23\\Documents\\Projects\\razor-venkat\\RazorPagesWithVenkat\\Services\\RazorPagesWithVenkat.Services.csproj": {
+              "projectPath": "C:\\Users\\ofu23\\Documents\\Projects\\razor-venkat\\RazorPagesWithVenkat\\Services\\RazorPagesWithVenkat.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

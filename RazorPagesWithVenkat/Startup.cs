@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using RazorPagesWithVenkat.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,6 +25,8 @@ namespace RazorPagesWithVenkat
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            // register <interface, concrete type>
+            services.AddSingleton<IEmployeeRepository, MockEmployeeRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

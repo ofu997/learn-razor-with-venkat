@@ -1,0 +1,10 @@
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat.Models\bin\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.deps.json
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat.Models\bin\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.dll
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat.Models\bin\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.pdb
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.csproj.AssemblyReference.cache
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.AssemblyInfoInputs.cache
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.AssemblyInfo.cs
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.csproj.CoreCompileInputs.cache
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.dll
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.pdb

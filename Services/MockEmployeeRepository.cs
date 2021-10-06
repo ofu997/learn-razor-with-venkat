@@ -5,7 +5,7 @@ using System.Text;
 
 namespace RazorPagesWithVenkat.Services
 {
-    class MockEmployeeRepository
+    public class MockEmployeeRepository : IEmployeeRepository
     {
         private List<Employee> _employeeList;
 
