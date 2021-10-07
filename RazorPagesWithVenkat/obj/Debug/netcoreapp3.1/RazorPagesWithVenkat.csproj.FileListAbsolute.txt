@@ -44,3 +44,6 @@ C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWi
 C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat\obj\Debug\netcoreapp3.1\Razor\Pages\Employees\Details.cshtml.g.cs
 C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat\obj\Debug\netcoreapp3.1\Razor\Pages\NotFound.cshtml.g.cs
 C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat\obj\Debug\netcoreapp3.1\Razor\Pages\Employees\Edit.cshtml.g.cs
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
