@@ -44,6 +44,7 @@ namespace RazorPagesWithVenkat.Services
                 employee.Name = updatedEmployee.Name;
                 employee.Email = updatedEmployee.Email;
                 employee.Department = updatedEmployee.Department;
+                employee.PhotoPath = updatedEmployee.PhotoPath;
             }
 
             return employee; 
