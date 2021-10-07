@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesWithVenkat", "RazorPagesWithVenkat\RazorPagesWithVenkat.csproj", "{2631FC59-95AF-4A6D-92D7-6753C3235FCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPagesWithVenkat", "RazorPagesWithVenkat\RazorPagesWithVenkat.csproj", "{2631FC59-95AF-4A6D-92D7-6753C3235FCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesWithVenkat.Models", "RazorPagesWithVenkat.Models\RazorPagesWithVenkat.Models.csproj", "{DD0377AD-B903-4F2D-AD61-C322A84260F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPagesWithVenkat.Models", "RazorPagesWithVenkat.Models\RazorPagesWithVenkat.Models.csproj", "{DD0377AD-B903-4F2D-AD61-C322A84260F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesWithVenkat.Services", "Services\RazorPagesWithVenkat.Services.csproj", "{FA69553D-0CFD-401B-8F5E-EFAC49FEF935}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPagesWithVenkat.Services", "Services\RazorPagesWithVenkat.Services.csproj", "{FA69553D-0CFD-401B-8F5E-EFAC49FEF935}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

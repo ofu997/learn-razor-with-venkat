@@ -9,28 +9,30 @@ using RazorPagesWithVenkat.Services;
 
 namespace RazorPagesWithVenkat.Pages.Employees
 {
-    public class DetailsModel : PageModel
+    public class EditModel : PageModel
     {
         private readonly IEmployeeRepository employeeRepository;
-
-        public DetailsModel(IEmployeeRepository employeeRepository)
+        public EditModel(IEmployeeRepository employeeRepository)
         {
             this.employeeRepository = employeeRepository;
         }
-
-        public Employee Employee { get; private set; }
-
+        public Employee Employee { get; set; }
         public IActionResult OnGet(int id)
         {
-            Employee = employeeRepository.GetEmployee(id); 
+            Employee = employeeRepository.GetEmployee(id);
 
             if (Employee == null)
             {
-                return RedirectToPage("/NotFound");
+                return RedirectToPage("/NotFound"); 
             }
 
             return Page();
         }
 
+        public IActionResult OnPost(Employee employee)
+        {
+            Employee = employeeRepository.Update(employee);
+            return RedirectToPage("Index");
+        }
     }
 }

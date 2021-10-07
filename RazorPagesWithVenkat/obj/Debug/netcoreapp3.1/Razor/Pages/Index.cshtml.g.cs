@@ -19,8 +19,15 @@ using RazorPagesWithVenkat;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 2 "C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat\Pages\_ViewImports.cshtml"
+using RazorPagesWithVenkat.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"47ead69033abd09c9916d4dc36b5f56d79ac111b", @"/Pages/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3fc0b52d20b3a58b971ca19dbe6f88bc689c4f04", @"/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"643d35af7088790a874dcbba8e051b840632fa95", @"/Pages/_ViewImports.cshtml")]
     public class Pages_Index : global::Microsoft.AspNetCore.Mvc.RazorPages.Page
     {
         #pragma warning disable 1998
