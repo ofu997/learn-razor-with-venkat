@@ -27,6 +27,11 @@ namespace RazorPagesWithVenkat.Pages.Employees
         // the newly uploaded photo
         [BindProperty]
         public IFormFile Photo { get; set; }
+
+        [BindProperty]
+        public bool Notify { get; set; }
+
+        public string Message { get; set; }
         public IActionResult OnGet(int id)
         {
             Employee = employeeRepository.GetEmployee(id);
@@ -57,6 +62,20 @@ namespace RazorPagesWithVenkat.Pages.Employees
             }
             Employee = employeeRepository.Update(employee);
             return RedirectToPage("Index");
+        }
+
+        public void OnPostUpdateNotificationPreferences(int id)
+        {
+            if (Notify)
+            {
+                Message = "Thank you for turning on notifications";
+            }
+            else
+            {
+                Message = "You have turned off email notifications";
+            }
+
+            Employee = employeeRepository.GetEmployee(id);
         }
 
         private string ProcessUploadedFile()
