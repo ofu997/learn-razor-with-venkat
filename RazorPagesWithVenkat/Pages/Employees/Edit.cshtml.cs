@@ -33,9 +33,19 @@ namespace RazorPagesWithVenkat.Pages.Employees
         public bool Notify { get; set; }
 
         public string Message { get; set; }
-        public IActionResult OnGet(int id)
+        // Make the id parameter optional
+        public IActionResult OnGet(int? id)
         {
-            Employee = employeeRepository.GetEmployee(id);
+            // if id parameter has value, retrieve the existing
+            // employee details, else create a new Employee
+            if (id.HasValue)
+            {
+                Employee = employeeRepository.GetEmployee(id.Value);
+            }
+            else
+            {
+                Employee = new Employee();
+            }
 
             if (Employee == null)
             {
@@ -63,9 +73,19 @@ namespace RazorPagesWithVenkat.Pages.Employees
                     // PhotoPath property of the employee object
                     Employee.PhotoPath = ProcessUploadedFile();
                 }
-                // Running invalid ModelState before [BindProperty] was put on Employee, the below
-                // line would not be executed, so the page would throw a null reference error
-                Employee = employeeRepository.Update(Employee);
+
+                // If Employee ID > 0, call Update() to update existing 
+                // employee details else call Add() to add new employee
+                if (Employee.Id > 0)
+                {
+                    // Running invalid ModelState before [BindProperty] was put on Employee, the below
+                    // line would not be executed, so the page would throw a null reference error
+                    Employee = employeeRepository.Update(Employee);
+                }
+                else
+                {
+                    Employee = employeeRepository.Add(Employee);
+                }
                 return RedirectToPage("Index");
             }
             return Page();
