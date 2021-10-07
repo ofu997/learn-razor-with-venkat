@@ -1,6 +1,7 @@
 ﻿using RazorPagesWithVenkat.Models;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace RazorPagesWithVenkat.Services
@@ -27,6 +28,11 @@ namespace RazorPagesWithVenkat.Services
         public IEnumerable<Employee> GetAllEmployees()
         {
             return _employeeList;
+        }
+
+        public Employee GetEmployee(int id)
+        {
+            return _employeeList.FirstOrDefault(e => e.Id == id);
         }
     }
 }

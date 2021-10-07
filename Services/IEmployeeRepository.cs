@@ -6,6 +6,7 @@ namespace RazorPagesWithVenkat.Services
 {
     public interface IEmployeeRepository
     {
-        IEnumerable<Employee> GetAllEmployees(); 
+        IEnumerable<Employee> GetAllEmployees();
+        Employee GetEmployee(int id); 
     }
 }
