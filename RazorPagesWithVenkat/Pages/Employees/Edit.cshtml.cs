@@ -64,7 +64,7 @@ namespace RazorPagesWithVenkat.Pages.Employees
             return RedirectToPage("Index");
         }
 
-        public void OnPostUpdateNotificationPreferences(int id)
+        public IActionResult OnPostUpdateNotificationPreferences(int id)
         {
             if (Notify)
             {
@@ -75,7 +75,10 @@ namespace RazorPagesWithVenkat.Pages.Employees
                 Message = "You have turned off email notifications";
             }
 
-            Employee = employeeRepository.GetEmployee(id);
+            //this gets passed to the RedirectToPage method
+            TempData["message"] = Message;
+
+            return RedirectToPage("Details", new { id = id }); 
         }
 
         private string ProcessUploadedFile()
