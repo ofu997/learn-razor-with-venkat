@@ -56,5 +56,17 @@ namespace RazorPagesWithVenkat.Services
             _employeeList.Add(newEmployee);
             return newEmployee;
         }
+
+        public Employee Delete(int id)
+        {
+            Employee employeeToDelete = _employeeList.FirstOrDefault(e => e.Id == id);
+
+            if (employeeToDelete != null)
+            {
+                _employeeList.Remove(employeeToDelete); 
+            }
+
+            return employeeToDelete;
+        }
     }
 }
