@@ -3991,11 +3991,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ofu23\\Documents\\Projects\\razor-venkat\\RazorPagesWithVenkat\\RazorPagesWithVenkat\\RazorPagesWithVenkat.csproj",
+      "projectUniqueName": "C:\\Users\\ofu23\\Documents\\Projects\\LEARN\\learn-razorpages-with-venkat\\RazorPagesWithVenkat\\RazorPagesWithVenkat.csproj",
       "projectName": "RazorPagesWithVenkat",
-      "projectPath": "C:\\Users\\ofu23\\Documents\\Projects\\razor-venkat\\RazorPagesWithVenkat\\RazorPagesWithVenkat\\RazorPagesWithVenkat.csproj",
+      "projectPath": "C:\\Users\\ofu23\\Documents\\Projects\\LEARN\\learn-razorpages-with-venkat\\RazorPagesWithVenkat\\RazorPagesWithVenkat.csproj",
       "packagesPath": "C:\\Users\\ofu23\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ofu23\\Documents\\Projects\\razor-venkat\\RazorPagesWithVenkat\\RazorPagesWithVenkat\\obj\\",
+      "outputPath": "C:\\Users\\ofu23\\Documents\\Projects\\LEARN\\learn-razorpages-with-venkat\\RazorPagesWithVenkat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ofu23\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4012,11 +4012,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ofu23\\Documents\\Projects\\razor-venkat\\RazorPagesWithVenkat\\RazorPagesWithVenkat.Models\\RazorPagesWithVenkat.Models.csproj": {
-              "projectPath": "C:\\Users\\ofu23\\Documents\\Projects\\razor-venkat\\RazorPagesWithVenkat\\RazorPagesWithVenkat.Models\\RazorPagesWithVenkat.Models.csproj"
+            "C:\\Users\\ofu23\\Documents\\Projects\\LEARN\\learn-razorpages-with-venkat\\RazorPagesWithVenkat.Models\\RazorPagesWithVenkat.Models.csproj": {
+              "projectPath": "C:\\Users\\ofu23\\Documents\\Projects\\LEARN\\learn-razorpages-with-venkat\\RazorPagesWithVenkat.Models\\RazorPagesWithVenkat.Models.csproj"
             },
-            "C:\\Users\\ofu23\\Documents\\Projects\\razor-venkat\\RazorPagesWithVenkat\\Services\\RazorPagesWithVenkat.Services.csproj": {
-              "projectPath": "C:\\Users\\ofu23\\Documents\\Projects\\razor-venkat\\RazorPagesWithVenkat\\Services\\RazorPagesWithVenkat.Services.csproj"
+            "C:\\Users\\ofu23\\Documents\\Projects\\LEARN\\learn-razorpages-with-venkat\\Services\\RazorPagesWithVenkat.Services.csproj": {
+              "projectPath": "C:\\Users\\ofu23\\Documents\\Projects\\LEARN\\learn-razorpages-with-venkat\\Services\\RazorPagesWithVenkat.Services.csproj"
             }
           }
         }
@@ -4048,7 +4048,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

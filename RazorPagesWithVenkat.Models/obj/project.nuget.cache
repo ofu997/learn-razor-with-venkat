@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tdJ/KTPOSBglbNOr5lrv9tGs7hKb7gQvJHPkSwOXLWJLfF2bkE+tJX4dDSv1ivzeGuY6FXuAeiQyOJOPjVGYTQ==",
+  "dgSpecHash": "GjYCJkeEGdoeNPCP1Zpm47rD69gLNt51ofHdoZgdaiZCkV3DuLgpP3yDrWl1ovwr2Tt+e9FKc2zAjvGd3KO8aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ofu23\\Documents\\Projects\\razor-venkat\\RazorPagesWithVenkat\\RazorPagesWithVenkat.Models\\RazorPagesWithVenkat.Models.csproj",
+  "projectFilePath": "C:\\Users\\ofu23\\Documents\\Projects\\LEARN\\learn-razorpages-with-venkat\\RazorPagesWithVenkat.Models\\RazorPagesWithVenkat.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ofu23\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ofu23\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
