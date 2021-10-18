@@ -8,3 +8,12 @@ C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWi
 C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.csproj.CoreCompileInputs.cache
 C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.dll
 C:\Users\ofu23\Documents\Projects\razor-venkat\RazorPagesWithVenkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.pdb
+C:\Users\ofu23\Documents\Projects\LEARN\learn-razorpages-with-venkat\RazorPagesWithVenkat.Models\bin\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.deps.json
+C:\Users\ofu23\Documents\Projects\LEARN\learn-razorpages-with-venkat\RazorPagesWithVenkat.Models\bin\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.dll
+C:\Users\ofu23\Documents\Projects\LEARN\learn-razorpages-with-venkat\RazorPagesWithVenkat.Models\bin\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.pdb
+C:\Users\ofu23\Documents\Projects\LEARN\learn-razorpages-with-venkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.csprojAssemblyReference.cache
+C:\Users\ofu23\Documents\Projects\LEARN\learn-razorpages-with-venkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.AssemblyInfoInputs.cache
+C:\Users\ofu23\Documents\Projects\LEARN\learn-razorpages-with-venkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.AssemblyInfo.cs
+C:\Users\ofu23\Documents\Projects\LEARN\learn-razorpages-with-venkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.csproj.CoreCompileInputs.cache
+C:\Users\ofu23\Documents\Projects\LEARN\learn-razorpages-with-venkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.dll
+C:\Users\ofu23\Documents\Projects\LEARN\learn-razorpages-with-venkat\RazorPagesWithVenkat.Models\obj\Debug\netcoreapp3.1\RazorPagesWithVenkat.Models.pdb

@@ -1,4 +1,15 @@
-﻿@page
+﻿@page "{id}"
 @model RazorPagesWithVenkat.Pages.Employees.DeleteModel
 @{
+    ViewData["Title"] = "Delete";
 }
+
+<h1>Delete Confirmation</h1>
+
+<div class="alert alert-danger">
+    <h5>Are you sure you want to delete employee- @Model.Employee.Name</h5>
+    <form method="post">
+        <button type="submit" class="btn btn-danger">Yes</button>
+        <a asp-page="/Employees/Index" class="btn btn-primary">No</a>
+    </form>
+</div>
